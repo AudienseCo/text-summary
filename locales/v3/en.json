@@ -45,9 +45,9 @@
     },
     "facet_depression": {
       "LowTerm": "Content",
-      "HighDescription": "They think quite often about the things you are unhappy about",
+      "HighDescription": "They think quite often about the things they are unhappy about",
       "HighTerm": "Melancholy",
-      "LowDescription": "They are generally comfortable with themselves as you are",
+      "LowDescription": "They are generally comfortable with themselves as they are",
       "Big5": "big5_neuroticism"
     },
     "facet_sympathy": {
@@ -73,7 +73,7 @@
     },
     "facet_assertiveness": {
       "LowTerm": "Demure",
-      "HighDescription": "They tend to speak up and take charge of situations, and you are comfortable leading groups",
+      "HighDescription": "They tend to speak up and take charge of situations, and they are comfortable leading groups",
       "HighTerm": "Assertive",
       "LowDescription": "They prefer to listen than to talk, especially in group situations",
       "Big5": "big5_extraversion"
@@ -87,7 +87,7 @@
     },
     "facet_self_efficacy": {
       "LowTerm": "Self-doubting",
-      "HighDescription": "They feel you have the ability to succeed in the tasks you set out to do",
+      "HighDescription": "They feel they have the ability to succeed in the tasks they set out to do",
       "HighTerm": "Self-assured",
       "LowDescription": "They frequently doubt their ability to achieve their goals",
       "Big5": "big5_conscientiousness"
@@ -96,7 +96,7 @@
       "LowTerm": "Compromising",
       "HighDescription": "They think it is wrong to take advantage of others to get ahead",
       "HighTerm": "Uncompromising",
-      "LowDescription": "They are comfortable using every trick in the book to get what you want",
+      "LowDescription": "They are comfortable using every trick in the book to get what they want",
       "Big5": "big5_agreeableness"
     },
     "facet_liberalism": {
@@ -159,7 +159,7 @@
       "LowTerm": "Proud",
       "HighDescription": "They are uncomfortable being the center of attention",
       "HighTerm": "Modest",
-      "LowDescription": "They hold themselves in high regard, satisfied with who you are",
+      "LowDescription": "They hold themselves in high regard, satisfied with who they are",
       "Big5": "big5_agreeableness"
     },
     "facet_activity_level": {
@@ -180,7 +180,7 @@
       "LowTerm": "Carefree",
       "HighDescription": "They take rules and obligations seriously, even when they're inconvenient",
       "HighTerm": "Dutiful",
-      "LowDescription": "They do what you want, disregarding rules and obligations",
+      "LowDescription": "They do what they want, disregarding rules and obligations",
       "Big5": "big5_conscientiousness"
     },
     "facet_artistic_interests": {
@@ -215,7 +215,7 @@
       "LowTerm": "Mild-tempered",
       "HighDescription": "They have a fiery temper, especially when things do not go their way",
       "HighTerm": "Fiery",
-      "LowDescription": "It takes a lot to get you angry",
+      "LowDescription": "It takes a lot to get them angry",
       "Big5": "big5_neuroticism"
     },
     "facet_excitement_seeking": {
@@ -301,10 +301,10 @@
   },
   "phrases": {
     "Experiences that give a sense of %s hold some appeal to you": "Experiences that give a sense of %s hold some appeal to them",
-    "You consider %s to guide a large part of what you do": "They consider %s to guide a large part of what you do",
+    "You consider %s to guide a large part of what you do": "They consider %s to guide a large part of what they do",
     "You value both %s a bit": "They value both %s a bit",
     "And %s": "And %s",
-    "And you are %s": "And you are %s",
+    "And you are %s": "And they are %s",
     "a bit %s": "a bit %s",
     "can be perceived as %s": "can be perceived as %s",
     "You are relatively unconcerned with both %s and %s": "They are relatively unconcerned with both %s and %s",
@@ -315,12 +315,12 @@
     "You are %s, %s and %s": "They are %s, %s and %s",
     "Your choices are driven by a desire for %s": "Their choices are driven by a desire for %s",
     "You are motivated to seek out experiences that provide a strong feeling of %s": "They are motivated to seek out experiences that provide a strong feeling of %s",
-    "Experiences that make you feel high %s are generally unappealing to you": "Experiences that make you feel high %s are generally unappealing to them",
+    "Experiences that make you feel high %s are generally unappealing to you": "Experiences that make them feel high %s are generally unappealing to them",
     "You don't find either %s or %s to be particularly motivating for you": "They don't find either %s or %s to be particularly motivating for them",
     "You are relatively unconcerned with %s": "They are relatively unconcerned with %s",
     "somewhat %s": "somewhat %s",
     "You value %s a bit more": "They value %s a bit more",
-    "You consider both %s and %s to guide a large part of what you do": "They consider both %s and %s to guide a large part of what you do"
+    "You consider both %s and %s to guide a large part of what you do": "They consider both %s and %s to guide a large part of what they do"
   },
   "traits": {
     "big5_conscientiousness_plus_big5_agreeableness_minus": [
@@ -2111,12 +2111,12 @@
       {
         "Term": "Tradition",
         "LowDescription": "They care more about making their own path than following what others have done",
-        "HighDescription": "They highly respect the groups you belong to and follow their guidance"
+        "HighDescription": "They highly respect the groups they belong to and follow their guidance"
       },
       {
         "Term": "Harmony",
         "LowDescription": "They decide what is right based on their beliefs, not what other people think",
-        "HighDescription": "They know rules are there for a reason, and you try never to break them"
+        "HighDescription": "They know rules are there for a reason, and they try never to break them"
       },
       {
         "Term": "Humility",
@@ -2126,7 +2126,7 @@
       {
         "Term": "Social norms",
         "LowDescription": "They decide what is right based on their beliefs, not what other people think",
-        "HighDescription": "They know rules are there for a reason, and you try never to break them"
+        "HighDescription": "They know rules are there for a reason, and they try never to break them"
       },
       {
         "Term": "Security",
@@ -2143,7 +2143,7 @@
       {
         "Term": "Achieving success",
         "LowDescription": "They make decisions with little regard for how they show off their talents",
-        "HighDescription": "They seek out opportunities to improve themselves and demonstrate that you are a capable person"
+        "HighDescription": "They seek out opportunities to improve themselves and demonstrate that they are a capable person"
       },
       {
         "Term": "Gaining social status",
@@ -2158,7 +2158,7 @@
       {
         "Term": "High achievement",
         "LowDescription": "They make decisions with little regard for how they show off their talents",
-        "HighDescription": "They seek out opportunities to improve themselves and demonstrate that you are a capable person"
+        "HighDescription": "They seek out opportunities to improve themselves and demonstrate that they are a capable person"
       }
     ],
     "value_openness_to_change": [
@@ -2169,17 +2169,17 @@
       },
       {
         "Term": "Excitement",
-        "LowDescription": "They would rather stick with things you already know you like than risk trying something new and risky",
+        "LowDescription": "They would rather stick with things they already know they like than risk trying something new and risky",
         "HighDescription": "They are eager to search out new and exciting experiences"
       },
       {
         "Term": "Creativity",
-        "LowDescription": "They would rather stick with things you already know you like than risk trying something new and risky",
+        "LowDescription": "They would rather stick with things they already know they like than risk trying something new and risky",
         "HighDescription": "They are eager to search out new and exciting experiences"
       },
       {
         "Term": "Curiosity",
-        "LowDescription": "They would rather stick with things you already know you like than risk trying something new and risky",
+        "LowDescription": "They would rather stick with things they already know they like than risk trying something new and risky",
         "HighDescription": "They are eager to search out new and exciting experiences"
       },
       {
