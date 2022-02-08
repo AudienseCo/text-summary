@@ -33,12 +33,12 @@
       "LowTerm": "Independent",
       "HighDescription": "They enjoy being in the company of others",
       "HighTerm": "Sociable",
-      "LowDescription": "They have a strong desire to have time to yourself",
+      "LowDescription": "They have a strong desire to have time to themselves",
       "Big5": "big5_extraversion"
     },
     "facet_achievement_striving": {
       "LowTerm": "Content",
-      "HighDescription": "They have high goals for yourself and work hard to achieve them",
+      "HighDescription": "They have high goals for themselves and work hard to achieve them",
       "HighTerm": "Driven",
       "LowDescription": "They are content with your level of accomplishment and do not feel the need to set ambitious goals",
       "Big5": "big5_conscientiousness"
@@ -47,7 +47,7 @@
       "LowTerm": "Content",
       "HighDescription": "They think quite often about the things you are unhappy about",
       "HighTerm": "Melancholy",
-      "LowDescription": "They are generally comfortable with yourself as you are",
+      "LowDescription": "They are generally comfortable with themselves as you are",
       "Big5": "big5_neuroticism"
     },
     "facet_sympathy": {
@@ -110,7 +110,7 @@
       "LowTerm": "Self-focused",
       "HighDescription": "They feel fulfilled when helping others, and will go out of your way to do so",
       "HighTerm": "Altruistic",
-      "LowDescription": "They are more concerned with taking care of yourself than taking time for others",
+      "LowDescription": "They are more concerned with taking care of themselves than taking time for others",
       "Big5": "big5_agreeableness"
     },
     "facet_self_consciousness": {
@@ -159,7 +159,7 @@
       "LowTerm": "Proud",
       "HighDescription": "They are uncomfortable being the center of attention",
       "HighTerm": "Modest",
-      "LowDescription": "They hold yourself in high regard, satisfied with who you are",
+      "LowDescription": "They hold themselves in high regard, satisfied with who you are",
       "Big5": "big5_agreeableness"
     },
     "facet_activity_level": {
@@ -2143,7 +2143,7 @@
       {
         "Term": "Achieving success",
         "LowDescription": "They make decisions with little regard for how they show off your talents",
-        "HighDescription": "They seek out opportunities to improve yourself and demonstrate that you are a capable person"
+        "HighDescription": "They seek out opportunities to improve themselves and demonstrate that you are a capable person"
       },
       {
         "Term": "Gaining social status",
@@ -2158,7 +2158,7 @@
       {
         "Term": "High achievement",
         "LowDescription": "They make decisions with little regard for how they show off your talents",
-        "HighDescription": "They seek out opportunities to improve yourself and demonstrate that you are a capable person"
+        "HighDescription": "They seek out opportunities to improve themselves and demonstrate that you are a capable person"
       }
     ],
     "value_openness_to_change": [
