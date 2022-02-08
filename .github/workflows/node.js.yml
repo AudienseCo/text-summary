@@ -33,3 +33,4 @@ jobs:
     - run: git config --global user.name "Custom GH action"
     - run: git add lib/ dist/
     - run: git commit -a -m "Add lib and dist files"
+    - run: git push origin master
