@@ -29,3 +29,5 @@ jobs:
     - run: npm i
     - run: npm run build
     - run: npm run compile
+    - run: git add lib/ dist/
+    - run: git commit -a -m "Add lib and dist files"
