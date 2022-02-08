@@ -25,7 +25,7 @@ const TextSummaryImpl = require('./text-summary');
 
 const DEFAULT_OPTIONS = {
   locale: 'en',
-  version: 'v2'
+  version: 'v3'
 };
 
 class TextSummary extends TextSummaryImpl {
