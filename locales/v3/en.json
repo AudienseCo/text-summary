@@ -24,212 +24,212 @@
   "facets": {
     "facet_intellect": {
       "LowTerm": "Concrete",
-      "HighDescription": "You are open to and intrigued by new ideas and love to explore them",
+      "HighDescription": "They are open to and intrigued by new ideas and love to explore them",
       "HighTerm": "Philosophical",
-      "LowDescription": "You prefer dealing with the world as it is, rarely considering abstract ideas",
+      "LowDescription": "They prefer dealing with the world as it is, rarely considering abstract ideas",
       "Big5": "big5_openness"
     },
     "facet_gregariousness": {
       "LowTerm": "Independent",
-      "HighDescription": "You enjoy being in the company of others",
+      "HighDescription": "They enjoy being in the company of others",
       "HighTerm": "Sociable",
-      "LowDescription": "You have a strong desire to have time to yourself",
+      "LowDescription": "They have a strong desire to have time to yourself",
       "Big5": "big5_extraversion"
     },
     "facet_achievement_striving": {
       "LowTerm": "Content",
-      "HighDescription": "You have high goals for yourself and work hard to achieve them",
+      "HighDescription": "They have high goals for yourself and work hard to achieve them",
       "HighTerm": "Driven",
-      "LowDescription": "You are content with your level of accomplishment and do not feel the need to set ambitious goals",
+      "LowDescription": "They are content with your level of accomplishment and do not feel the need to set ambitious goals",
       "Big5": "big5_conscientiousness"
     },
     "facet_depression": {
       "LowTerm": "Content",
-      "HighDescription": "You think quite often about the things you are unhappy about",
+      "HighDescription": "They think quite often about the things you are unhappy about",
       "HighTerm": "Melancholy",
-      "LowDescription": "You are generally comfortable with yourself as you are",
+      "LowDescription": "They are generally comfortable with yourself as you are",
       "Big5": "big5_neuroticism"
     },
     "facet_sympathy": {
       "LowTerm": "Hardened",
-      "HighDescription": "You feel what others feel and are compassionate towards them",
+      "HighDescription": "They feel what others feel and are compassionate towards them",
       "HighTerm": "Empathetic",
-      "LowDescription": "You think that people should generally rely more on themselves than on other people",
+      "LowDescription": "They think that people should generally rely more on themselves than on other people",
       "Big5": "big5_agreeableness"
     },
     "facet_imagination": {
       "LowTerm": "Down-to-earth",
-      "HighDescription": "You have a wild imagination",
+      "HighDescription": "They have a wild imagination",
       "HighTerm": "Imaginative",
-      "LowDescription": "You prefer facts over fantasy",
+      "LowDescription": "They prefer facts over fantasy",
       "Big5": "big5_openness"
     },
     "facet_self_discipline": {
       "LowTerm": "Intermittent",
-      "HighDescription": "You can tackle and stick with tough tasks",
+      "HighDescription": "They can tackle and stick with tough tasks",
       "HighTerm": "Persistent",
-      "LowDescription": "You have a hard time sticking with difficult tasks for a long period of time",
+      "LowDescription": "They have a hard time sticking with difficult tasks for a long period of time",
       "Big5": "big5_conscientiousness"
     },
     "facet_assertiveness": {
       "LowTerm": "Demure",
-      "HighDescription": "You tend to speak up and take charge of situations, and you are comfortable leading groups",
+      "HighDescription": "They tend to speak up and take charge of situations, and you are comfortable leading groups",
       "HighTerm": "Assertive",
-      "LowDescription": "You prefer to listen than to talk, especially in group situations",
+      "LowDescription": "They prefer to listen than to talk, especially in group situations",
       "Big5": "big5_extraversion"
     },
     "facet_cheerfulness": {
       "LowTerm": "Solemn",
-      "HighDescription": "You are a joyful person and share that joy with the world",
+      "HighDescription": "They are a joyful person and share that joy with the world",
       "HighTerm": "Cheerful",
-      "LowDescription": "You are generally serious and do not joke much",
+      "LowDescription": "They are generally serious and do not joke much",
       "Big5": "big5_extraversion"
     },
     "facet_self_efficacy": {
       "LowTerm": "Self-doubting",
-      "HighDescription": "You feel you have the ability to succeed in the tasks you set out to do",
+      "HighDescription": "They feel you have the ability to succeed in the tasks you set out to do",
       "HighTerm": "Self-assured",
-      "LowDescription": "You frequently doubt your ability to achieve your goals",
+      "LowDescription": "They frequently doubt your ability to achieve your goals",
       "Big5": "big5_conscientiousness"
     },
     "facet_morality": {
       "LowTerm": "Compromising",
-      "HighDescription": "You think it is wrong to take advantage of others to get ahead",
+      "HighDescription": "They think it is wrong to take advantage of others to get ahead",
       "HighTerm": "Uncompromising",
-      "LowDescription": "You are comfortable using every trick in the book to get what you want",
+      "LowDescription": "They are comfortable using every trick in the book to get what you want",
       "Big5": "big5_agreeableness"
     },
     "facet_liberalism": {
       "LowTerm": "Respectful of authority",
-      "HighDescription": "You prefer to challenge authority and traditional values to help bring about positive changes",
+      "HighDescription": "They prefer to challenge authority and traditional values to help bring about positive changes",
       "HighTerm": "Authority-challenging",
-      "LowDescription": "You prefer following with tradition in order to maintain a sense of stability",
+      "LowDescription": "They prefer following with tradition in order to maintain a sense of stability",
       "Big5": "big5_openness"
     },
     "facet_altruism": {
       "LowTerm": "Self-focused",
-      "HighDescription": "You feel fulfilled when helping others, and will go out of your way to do so",
+      "HighDescription": "They feel fulfilled when helping others, and will go out of your way to do so",
       "HighTerm": "Altruistic",
-      "LowDescription": "You are more concerned with taking care of yourself than taking time for others",
+      "LowDescription": "They are more concerned with taking care of yourself than taking time for others",
       "Big5": "big5_agreeableness"
     },
     "facet_self_consciousness": {
       "LowTerm": "Confident",
-      "HighDescription": "You are sensitive about what others might be thinking about you",
+      "HighDescription": "They are sensitive about what others might be thinking about you",
       "HighTerm": "Self-conscious",
-      "LowDescription": "You are hard to embarrass and are self-confident most of the time",
+      "LowDescription": "They are hard to embarrass and are self-confident most of the time",
       "Big5": "big5_neuroticism"
     },
     "facet_vulnerability": {
       "LowTerm": "Calm under pressure",
-      "HighDescription": "You are easily overwhelmed in stressful situations",
+      "HighDescription": "They are easily overwhelmed in stressful situations",
       "HighTerm": "Susceptible to stress",
-      "LowDescription": "You handle unexpected events calmly and effectively",
+      "LowDescription": "They handle unexpected events calmly and effectively",
       "Big5": "big5_neuroticism"
     },
     "facet_trust": {
       "LowTerm": "Cautious of others",
-      "HighDescription": "You believe the best in others and trust people easily",
+      "HighDescription": "They believe the best in others and trust people easily",
       "HighTerm": "Trusting of others",
-      "LowDescription": "You are wary of other people's intentions and do not trust easily",
+      "LowDescription": "They are wary of other people's intentions and do not trust easily",
       "Big5": "big5_agreeableness"
     },
     "facet_orderliness": {
       "LowTerm": "Unstructured",
-      "HighDescription": "You feel a strong need for structure in your life",
+      "HighDescription": "They feel a strong need for structure in your life",
       "HighTerm": "Organized",
-      "LowDescription": "You do not make a lot of time for organization in your daily life",
+      "LowDescription": "They do not make a lot of time for organization in your daily life",
       "Big5": "big5_conscientiousness"
     },
     "facet_anxiety": {
       "LowTerm": "Self-assured",
-      "HighDescription": "You tend to worry about things that might happen",
+      "HighDescription": "They tend to worry about things that might happen",
       "HighTerm": "Prone to worry",
-      "LowDescription": "You tend to feel calm and self-assured",
+      "LowDescription": "They tend to feel calm and self-assured",
       "Big5": "big5_neuroticism"
     },
     "facet_friendliness": {
       "LowTerm": "Reserved",
-      "HighDescription": "You make friends easily and feel comfortable around other people",
+      "HighDescription": "They make friends easily and feel comfortable around other people",
       "HighTerm": "Outgoing",
-      "LowDescription": "You are a private person and don't let many people in",
+      "LowDescription": "They are a private person and don't let many people in",
       "Big5": "big5_extraversion"
     },
     "facet_modesty": {
       "LowTerm": "Proud",
-      "HighDescription": "You are uncomfortable being the center of attention",
+      "HighDescription": "They are uncomfortable being the center of attention",
       "HighTerm": "Modest",
-      "LowDescription": "You hold yourself in high regard, satisfied with who you are",
+      "LowDescription": "They hold yourself in high regard, satisfied with who you are",
       "Big5": "big5_agreeableness"
     },
     "facet_activity_level": {
       "LowTerm": "Laid-back",
-      "HighDescription": "You enjoy a fast-paced, busy schedule with many activities",
+      "HighDescription": "They enjoy a fast-paced, busy schedule with many activities",
       "HighTerm": "Energetic",
-      "LowDescription": "You appreciate a relaxed pace in life",
+      "LowDescription": "They appreciate a relaxed pace in life",
       "Big5": "big5_extraversion"
     },
     "facet_cautiousness": {
       "LowTerm": "Bold",
-      "HighDescription": "You carefully think through decisions before making them",
+      "HighDescription": "They carefully think through decisions before making them",
       "HighTerm": "Deliberate",
-      "LowDescription": "You would rather take action immediately than spend time deliberating making a decision",
+      "LowDescription": "They would rather take action immediately than spend time deliberating making a decision",
       "Big5": "big5_conscientiousness"
     },
     "facet_dutifulness": {
       "LowTerm": "Carefree",
-      "HighDescription": "You take rules and obligations seriously, even when they're inconvenient",
+      "HighDescription": "They take rules and obligations seriously, even when they're inconvenient",
       "HighTerm": "Dutiful",
-      "LowDescription": "You do what you want, disregarding rules and obligations",
+      "LowDescription": "They do what you want, disregarding rules and obligations",
       "Big5": "big5_conscientiousness"
     },
     "facet_artistic_interests": {
       "LowTerm": "Unconcerned with art",
-      "HighDescription": "You enjoy beauty and seek out creative experiences",
+      "HighDescription": "They enjoy beauty and seek out creative experiences",
       "HighTerm": "Appreciative of art",
-      "LowDescription": "You are less concerned with artistic or creative activities than most people who participated in our surveys",
+      "LowDescription": "They are less concerned with artistic or creative activities than most people who participated in our surveys",
       "Big5": "big5_openness"
     },
     "facet_immoderation": {
       "LowTerm": "Self-controlled",
-      "HighDescription": "You feel your desires strongly and are easily tempted by them",
+      "HighDescription": "They feel your desires strongly and are easily tempted by them",
       "HighTerm": "Hedonistic",
-      "LowDescription": "You have control over your desires, which are not particularly intense",
+      "LowDescription": "They have control over your desires, which are not particularly intense",
       "Big5": "big5_neuroticism"
     },
     "facet_emotionality": {
       "LowTerm": "Dispassionate",
-      "HighDescription": "You are aware of your feelings and how to express them",
+      "HighDescription": "They are aware of your feelings and how to express them",
       "HighTerm": "Emotionally aware",
-      "LowDescription": "You do not frequently think about or openly express your emotions",
+      "LowDescription": "They do not frequently think about or openly express your emotions",
       "Big5": "big5_openness"
     },
     "facet_adventurousness": {
       "LowTerm": "Consistent",
-      "HighDescription": "You are eager to experience new things",
+      "HighDescription": "They are eager to experience new things",
       "HighTerm": "Adventurous",
-      "LowDescription": "You enjoy familiar routines and prefer not to deviate from them",
+      "LowDescription": "They enjoy familiar routines and prefer not to deviate from them",
       "Big5": "big5_openness"
     },
     "facet_anger": {
       "LowTerm": "Mild-tempered",
-      "HighDescription": "You have a fiery temper, especially when things do not go your way",
+      "HighDescription": "They have a fiery temper, especially when things do not go your way",
       "HighTerm": "Fiery",
       "LowDescription": "It takes a lot to get you angry",
       "Big5": "big5_neuroticism"
     },
     "facet_excitement_seeking": {
       "LowTerm": "Calm-seeking",
-      "HighDescription": "You are excited by taking risks and feel bored without lots of action going on",
+      "HighDescription": "They are excited by taking risks and feel bored without lots of action going on",
       "HighTerm": "Excitement-seeking",
-      "LowDescription": "You prefer activities that are quiet, calm, and safe",
+      "LowDescription": "They prefer activities that are quiet, calm, and safe",
       "Big5": "big5_extraversion"
     },
     "facet_cooperation": {
       "LowTerm": "Contrary",
-      "HighDescription": "You are easy to please and try to avoid confrontation",
+      "HighDescription": "They are easy to please and try to avoid confrontation",
       "HighTerm": "Accommodating",
-      "LowDescription": "You do not shy away from contradicting others",
+      "LowDescription": "They do not shy away from contradicting others",
       "Big5": "big5_agreeableness"
     }
   },
@@ -301,26 +301,26 @@
   },
   "phrases": {
     "Experiences that give a sense of %s hold some appeal to you": "Experiences that give a sense of %s hold some appeal to you",
-    "You consider %s to guide a large part of what you do": "You consider %s to guide a large part of what you do",
-    "You value both %s a bit": "You value both %s a bit",
+    "You consider %s to guide a large part of what you do": "They consider %s to guide a large part of what you do",
+    "You value both %s a bit": "They value both %s a bit",
     "And %s": "And %s",
     "And you are %s": "And you are %s",
     "a bit %s": "a bit %s",
     "can be perceived as %s": "can be perceived as %s",
-    "You are relatively unconcerned with both %s and %s": "You are relatively unconcerned with both %s and %s",
-    "You are %s and %s": "You are %s and %s",
-    "You value both %s and %s a bit": "You value both %s and %s a bit",
-    "You don't find %s to be particularly motivating for you": "You don't find %s to be particularly motivating for you",
-    "You are %s": "You are %s",
-    "You are %s, %s and %s": "You are %s, %s and %s",
+    "You are relatively unconcerned with both %s and %s": "They are relatively unconcerned with both %s and %s",
+    "You are %s and %s": "They are %s and %s",
+    "You value both %s and %s a bit": "They value both %s and %s a bit",
+    "You don't find %s to be particularly motivating for you": "They don't find %s to be particularly motivating for you",
+    "You are %s": "They are %s",
+    "You are %s, %s and %s": "They are %s, %s and %s",
     "Your choices are driven by a desire for %s": "Your choices are driven by a desire for %s",
-    "You are motivated to seek out experiences that provide a strong feeling of %s": "You are motivated to seek out experiences that provide a strong feeling of %s",
+    "You are motivated to seek out experiences that provide a strong feeling of %s": "They are motivated to seek out experiences that provide a strong feeling of %s",
     "Experiences that make you feel high %s are generally unappealing to you": "Experiences that make you feel high %s are generally unappealing to you",
-    "You don't find either %s or %s to be particularly motivating for you": "You don't find either %s or %s to be particularly motivating for you",
-    "You are relatively unconcerned with %s": "You are relatively unconcerned with %s",
+    "You don't find either %s or %s to be particularly motivating for you": "They don't find either %s or %s to be particularly motivating for you",
+    "You are relatively unconcerned with %s": "They are relatively unconcerned with %s",
     "somewhat %s": "somewhat %s",
-    "You value %s a bit more": "You value %s a bit more",
-    "You consider both %s and %s to guide a large part of what you do": "You consider both %s and %s to guide a large part of what you do"
+    "You value %s a bit more": "They value %s a bit more",
+    "You consider both %s and %s to guide a large part of what you do": "They consider both %s and %s to guide a large part of what you do"
   },
   "traits": {
     "big5_conscientiousness_plus_big5_agreeableness_minus": [
@@ -2076,121 +2076,121 @@
     "value_self_transcendence": [
       {
         "Term": "Helping others",
-        "LowDescription": "You think people can handle their own business without interference",
-        "HighDescription": "You think it is important to take care of the people around you"
+        "LowDescription": "They think people can handle their own business without interference",
+        "HighDescription": "They think it is important to take care of the people around you"
       },
       {
         "Term": "Fairness",
-        "LowDescription": "You believe that people create their own opportunities",
-        "HighDescription": "You believe in social justice and equality for all"
+        "LowDescription": "They believe that people create their own opportunities",
+        "HighDescription": "They believe in social justice and equality for all"
       },
       {
         "Term": "Social justice",
-        "LowDescription": "You believe that people create their own opportunities",
-        "HighDescription": "You believe in social justice and equality for all"
+        "LowDescription": "They believe that people create their own opportunities",
+        "HighDescription": "They believe in social justice and equality for all"
       },
       {
         "Term": "Equality",
-        "LowDescription": "You believe that people create their own opportunities",
-        "HighDescription": "You believe in social justice and equality for all"
+        "LowDescription": "They believe that people create their own opportunities",
+        "HighDescription": "They believe in social justice and equality for all"
       },
       {
         "Term": "Community service",
-        "LowDescription": "You think people can handle their own business without interference",
-        "HighDescription": "You think it is important to take care of the people around you"
+        "LowDescription": "They think people can handle their own business without interference",
+        "HighDescription": "They think it is important to take care of the people around you"
       }
     ],
     "value_hedonism": [
       {
         "Term": "Taking pleasure in life",
-        "LowDescription": "You prefer activities with a purpose greater than just personal enjoyment",
-        "HighDescription": "You are highly motivated to enjoy life to its fullest"
+        "LowDescription": "They prefer activities with a purpose greater than just personal enjoyment",
+        "HighDescription": "They are highly motivated to enjoy life to its fullest"
       }
     ],
     "value_conservation": [
       {
         "Term": "Tradition",
-        "LowDescription": "You care more about making your own path than following what others have done",
-        "HighDescription": "You highly respect the groups you belong to and follow their guidance"
+        "LowDescription": "They care more about making your own path than following what others have done",
+        "HighDescription": "They highly respect the groups you belong to and follow their guidance"
       },
       {
         "Term": "Harmony",
-        "LowDescription": "You decide what is right based on your beliefs, not what other people think",
-        "HighDescription": "You know rules are there for a reason, and you try never to break them"
+        "LowDescription": "They decide what is right based on your beliefs, not what other people think",
+        "HighDescription": "They know rules are there for a reason, and you try never to break them"
       },
       {
         "Term": "Humility",
-        "LowDescription": "You decide what is right based on your beliefs, not what other people think",
-        "HighDescription": "You see worth in deferring to others"
+        "LowDescription": "They decide what is right based on your beliefs, not what other people think",
+        "HighDescription": "They see worth in deferring to others"
       },
       {
         "Term": "Social norms",
-        "LowDescription": "You decide what is right based on your beliefs, not what other people think",
-        "HighDescription": "You know rules are there for a reason, and you try never to break them"
+        "LowDescription": "They decide what is right based on your beliefs, not what other people think",
+        "HighDescription": "They know rules are there for a reason, and you try never to break them"
       },
       {
         "Term": "Security",
-        "LowDescription": "You believe that security is worth sacrificing to achieve other goals",
-        "HighDescription": "You believe that safety and security are important things to safeguard"
+        "LowDescription": "They believe that security is worth sacrificing to achieve other goals",
+        "HighDescription": "They believe that safety and security are important things to safeguard"
       },
       {
         "Term": "Safety",
-        "LowDescription": "You believe that safety is worth sacrificing to achieve other goals",
-        "HighDescription": "You believe that safety and security are important things to safeguard"
+        "LowDescription": "They believe that safety is worth sacrificing to achieve other goals",
+        "HighDescription": "They believe that safety and security are important things to safeguard"
       }
     ],
     "value_self_enhancement": [
       {
         "Term": "Achieving success",
-        "LowDescription": "You make decisions with little regard for how they show off your talents",
-        "HighDescription": "You seek out opportunities to improve yourself and demonstrate that you are a capable person"
+        "LowDescription": "They make decisions with little regard for how they show off your talents",
+        "HighDescription": "They seek out opportunities to improve yourself and demonstrate that you are a capable person"
       },
       {
         "Term": "Gaining social status",
-        "LowDescription": "You are comfortable with your social status and don't feel a strong need to improve it",
-        "HighDescription": "You put substantial effort into improving your status and public image"
+        "LowDescription": "They are comfortable with your social status and don't feel a strong need to improve it",
+        "HighDescription": "They put substantial effort into improving your status and public image"
       },
       {
         "Term": "Ambition",
-        "LowDescription": "You are comfortable with your social status and don't feel a strong need to improve it",
-        "HighDescription": "You feel it is important to push forward towards goals"
+        "LowDescription": "They are comfortable with your social status and don't feel a strong need to improve it",
+        "HighDescription": "They feel it is important to push forward towards goals"
       },
       {
         "Term": "High achievement",
-        "LowDescription": "You make decisions with little regard for how they show off your talents",
-        "HighDescription": "You seek out opportunities to improve yourself and demonstrate that you are a capable person"
+        "LowDescription": "They make decisions with little regard for how they show off your talents",
+        "HighDescription": "They seek out opportunities to improve yourself and demonstrate that you are a capable person"
       }
     ],
     "value_openness_to_change": [
       {
         "Term": "Independence",
-        "LowDescription": "You welcome when others direct your activities for you",
-        "HighDescription": "You like to set your own goals to decide how to best achieve them"
+        "LowDescription": "They welcome when others direct your activities for you",
+        "HighDescription": "They like to set your own goals to decide how to best achieve them"
       },
       {
         "Term": "Excitement",
-        "LowDescription": "You would rather stick with things you already know you like than risk trying something new and risky",
-        "HighDescription": "You are eager to search out new and exciting experiences"
+        "LowDescription": "They would rather stick with things you already know you like than risk trying something new and risky",
+        "HighDescription": "They are eager to search out new and exciting experiences"
       },
       {
         "Term": "Creativity",
-        "LowDescription": "You would rather stick with things you already know you like than risk trying something new and risky",
-        "HighDescription": "You are eager to search out new and exciting experiences"
+        "LowDescription": "They would rather stick with things you already know you like than risk trying something new and risky",
+        "HighDescription": "They are eager to search out new and exciting experiences"
       },
       {
         "Term": "Curiosity",
-        "LowDescription": "You would rather stick with things you already know you like than risk trying something new and risky",
-        "HighDescription": "You are eager to search out new and exciting experiences"
+        "LowDescription": "They would rather stick with things you already know you like than risk trying something new and risky",
+        "HighDescription": "They are eager to search out new and exciting experiences"
       },
       {
         "Term": "Self-direction",
-        "LowDescription": "You welcome when others direct your activities for you",
-        "HighDescription": "You like to set your own goals to decide how to best achieve them"
+        "LowDescription": "They welcome when others direct your activities for you",
+        "HighDescription": "They like to set your own goals to decide how to best achieve them"
       },
       {
         "Term": "Freedom",
-        "LowDescription": "You welcome when others direct your activities for you",
-        "HighDescription": "You like to set your own goals to decide how to best achieve them"
+        "LowDescription": "They welcome when others direct your activities for you",
+        "HighDescription": "They like to set your own goals to decide how to best achieve them"
       }
     ]
   }
