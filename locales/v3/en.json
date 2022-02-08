@@ -40,7 +40,7 @@
       "LowTerm": "Content",
       "HighDescription": "They have high goals for themselves and work hard to achieve them",
       "HighTerm": "Driven",
-      "LowDescription": "They are content with your level of accomplishment and do not feel the need to set ambitious goals",
+      "LowDescription": "They are content with their level of accomplishment and do not feel the need to set ambitious goals",
       "Big5": "big5_conscientiousness"
     },
     "facet_depression": {
@@ -89,7 +89,7 @@
       "LowTerm": "Self-doubting",
       "HighDescription": "They feel you have the ability to succeed in the tasks you set out to do",
       "HighTerm": "Self-assured",
-      "LowDescription": "They frequently doubt your ability to achieve your goals",
+      "LowDescription": "They frequently doubt their ability to achieve their goals",
       "Big5": "big5_conscientiousness"
     },
     "facet_morality": {
@@ -108,7 +108,7 @@
     },
     "facet_altruism": {
       "LowTerm": "Self-focused",
-      "HighDescription": "They feel fulfilled when helping others, and will go out of your way to do so",
+      "HighDescription": "They feel fulfilled when helping others, and will go out of their way to do so",
       "HighTerm": "Altruistic",
       "LowDescription": "They are more concerned with taking care of themselves than taking time for others",
       "Big5": "big5_agreeableness"
@@ -136,9 +136,9 @@
     },
     "facet_orderliness": {
       "LowTerm": "Unstructured",
-      "HighDescription": "They feel a strong need for structure in your life",
+      "HighDescription": "They feel a strong need for structure in their life",
       "HighTerm": "Organized",
-      "LowDescription": "They do not make a lot of time for organization in your daily life",
+      "LowDescription": "They do not make a lot of time for organization in their daily life",
       "Big5": "big5_conscientiousness"
     },
     "facet_anxiety": {
@@ -192,16 +192,16 @@
     },
     "facet_immoderation": {
       "LowTerm": "Self-controlled",
-      "HighDescription": "They feel your desires strongly and are easily tempted by them",
+      "HighDescription": "They feel their desires strongly and are easily tempted by them",
       "HighTerm": "Hedonistic",
-      "LowDescription": "They have control over your desires, which are not particularly intense",
+      "LowDescription": "They have control over their desires, which are not particularly intense",
       "Big5": "big5_neuroticism"
     },
     "facet_emotionality": {
       "LowTerm": "Dispassionate",
-      "HighDescription": "They are aware of your feelings and how to express them",
+      "HighDescription": "They are aware of their feelings and how to express them",
       "HighTerm": "Emotionally aware",
-      "LowDescription": "They do not frequently think about or openly express your emotions",
+      "LowDescription": "They do not frequently think about or openly express their emotions",
       "Big5": "big5_openness"
     },
     "facet_adventurousness": {
@@ -213,7 +213,7 @@
     },
     "facet_anger": {
       "LowTerm": "Mild-tempered",
-      "HighDescription": "They have a fiery temper, especially when things do not go your way",
+      "HighDescription": "They have a fiery temper, especially when things do not go their way",
       "HighTerm": "Fiery",
       "LowDescription": "It takes a lot to get you angry",
       "Big5": "big5_neuroticism"
@@ -2110,22 +2110,22 @@
     "value_conservation": [
       {
         "Term": "Tradition",
-        "LowDescription": "They care more about making your own path than following what others have done",
+        "LowDescription": "They care more about making their own path than following what others have done",
         "HighDescription": "They highly respect the groups you belong to and follow their guidance"
       },
       {
         "Term": "Harmony",
-        "LowDescription": "They decide what is right based on your beliefs, not what other people think",
+        "LowDescription": "They decide what is right based on their beliefs, not what other people think",
         "HighDescription": "They know rules are there for a reason, and you try never to break them"
       },
       {
         "Term": "Humility",
-        "LowDescription": "They decide what is right based on your beliefs, not what other people think",
+        "LowDescription": "They decide what is right based on their beliefs, not what other people think",
         "HighDescription": "They see worth in deferring to others"
       },
       {
         "Term": "Social norms",
-        "LowDescription": "They decide what is right based on your beliefs, not what other people think",
+        "LowDescription": "They decide what is right based on their beliefs, not what other people think",
         "HighDescription": "They know rules are there for a reason, and you try never to break them"
       },
       {
@@ -2142,30 +2142,30 @@
     "value_self_enhancement": [
       {
         "Term": "Achieving success",
-        "LowDescription": "They make decisions with little regard for how they show off your talents",
+        "LowDescription": "They make decisions with little regard for how they show off their talents",
         "HighDescription": "They seek out opportunities to improve themselves and demonstrate that you are a capable person"
       },
       {
         "Term": "Gaining social status",
-        "LowDescription": "They are comfortable with your social status and don't feel a strong need to improve it",
-        "HighDescription": "They put substantial effort into improving your status and public image"
+        "LowDescription": "They are comfortable with their social status and don't feel a strong need to improve it",
+        "HighDescription": "They put substantial effort into improving their status and public image"
       },
       {
         "Term": "Ambition",
-        "LowDescription": "They are comfortable with your social status and don't feel a strong need to improve it",
+        "LowDescription": "They are comfortable with their social status and don't feel a strong need to improve it",
         "HighDescription": "They feel it is important to push forward towards goals"
       },
       {
         "Term": "High achievement",
-        "LowDescription": "They make decisions with little regard for how they show off your talents",
+        "LowDescription": "They make decisions with little regard for how they show off their talents",
         "HighDescription": "They seek out opportunities to improve themselves and demonstrate that you are a capable person"
       }
     ],
     "value_openness_to_change": [
       {
         "Term": "Independence",
-        "LowDescription": "They welcome when others direct your activities for them",
-        "HighDescription": "They like to set your own goals to decide how to best achieve them"
+        "LowDescription": "They welcome when others direct their activities for them",
+        "HighDescription": "They like to set their own goals to decide how to best achieve them"
       },
       {
         "Term": "Excitement",
@@ -2184,13 +2184,13 @@
       },
       {
         "Term": "Self-direction",
-        "LowDescription": "They welcome when others direct your activities for them",
-        "HighDescription": "They like to set your own goals to decide how to best achieve them"
+        "LowDescription": "They welcome when others direct their activities for them",
+        "HighDescription": "They like to set their own goals to decide how to best achieve them"
       },
       {
         "Term": "Freedom",
-        "LowDescription": "They welcome when others direct your activities for them",
-        "HighDescription": "They like to set your own goals to decide how to best achieve them"
+        "LowDescription": "They welcome when others direct their activities for them",
+        "HighDescription": "They like to set their own goals to decide how to best achieve them"
       }
     ]
   }
