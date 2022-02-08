@@ -29,7 +29,7 @@ jobs:
     - run: npm i
     - run: npm run build
     - run: npm run compile
-    - run: git add lib/ dist/
-    - run: git commit -a -m "Add lib and dist files"
     - run: git config --global user.email "<>"
     - run: git config --global user.name "Custom GH action"
+    - run: git add lib/ dist/
+    - run: git commit -a -m "Add lib and dist files"
