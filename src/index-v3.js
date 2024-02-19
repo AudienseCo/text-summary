@@ -16,7 +16,7 @@
 
 'use strict';
 
-const pick = require('lodash.pick');
+const pick = require('lodash/pick');
 const I18nDataV3 = require('./i18n/v3');
 const PersonalityProfileV3 = require('./profiles/v3/index');
 const TextSummaryImpl = require('./text-summary');

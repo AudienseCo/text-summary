@@ -16,8 +16,8 @@
 
 'use strict';
 
-const includes = require('lodash.includes');
-const keys = require('lodash.keys');
+const includes = require('lodash/includes');
+const keys = require('lodash/keys');
 const dictionaries = require('./dictionaries');
 
 class I18nData {
